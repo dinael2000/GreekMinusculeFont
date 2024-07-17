@@ -61,20 +61,20 @@
       <FileType>.md</FileType>
     </File>
     <File>
-      <Name>..\..\NewAdditions.sfd</Name>
-      <Description>File NewAdditions.sfd</Description>
+      <Name>..\..\..\MS Barocci Keyboard v4\TESTMSBarocci102\TESTMSBarocci.sfd</Name>
+      <Description>File TESTMSBarocci.sfd</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.sfd</FileType>
     </File>
     <File>
-      <Name>..\..\msbarocci102fin2.otf</Name>
-      <Description>Font MS Barocci 102fin2</Description>
+      <Name>..\..\..\MS Barocci Keyboard v4\TESTMSBarocci102\testmsbarocci2.otf</Name>
+      <Description>Font font1</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.otf</FileType>
     </File>
     <File>
-      <Name>..\..\Bodleian Library MSBarocci Font InkscapeNewLigs.svg</Name>
-      <Description>File Bodleian Library MSBarocci Font InkscapeNewLigs.svg</Description>
+      <Name>..\..\..\MS Barocci Keyboard v4\TESTMSBarocci102\TESTMSBarocciNEW.svg</Name>
+      <Description>File TESTMSBarocciNEW.svg</Description>
       <CopyLocation>0</CopyLocation>
       <FileType>.svg</FileType>
     </File>

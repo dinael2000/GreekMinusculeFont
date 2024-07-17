@@ -5,23 +5,19 @@
     <kbdname>ms_barocci_102</kbdname>
     <flags/>
   </header>
-  <encoding name="unicode" fontname="MS Barocci 102fin2" fontsize="14">
+  <encoding name="unicode" fontname="MS Barocci 102" fontsize="14">
     <layer shift="S">
-      <key vkey="K_1"></key>
-      <key vkey="K_3"></key>
-      <key vkey="K_4"></key>
-      <key vkey="K_5"></key>
-      <key vkey="K_7"></key>
-      <key vkey="K_9"></key>
-      <key vkey="K_0"></key>
-      <key vkey="K_8"></key>
-      <key vkey="K_EQUAL"></key>
-      <key vkey="K_PERIOD">&gt;</key>
-      <key vkey="K_2"></key>
+      <key vkey="K_1"></key>
+      <key vkey="K_3"></key>
+      <key vkey="K_4"></key>
+      <key vkey="K_5"></key>
+      <key vkey="K_7"></key>
+      <key vkey="K_8"></key>
+      <key vkey="K_2"></key>
       <key vkey="K_A">Α</key>
       <key vkey="K_D">Δ</key>
       <key vkey="K_E">Ε</key>
-      <key vkey="K_F">φ</key>
+      <key vkey="K_F">Φ</key>
       <key vkey="K_G">Γ</key>
       <key vkey="K_H">Η</key>
       <key vkey="K_I">Ι</key>
@@ -30,17 +26,20 @@
       <key vkey="K_O">Ο</key>
       <key vkey="K_P">Π</key>
       <key vkey="K_Q">:</key>
-      <key vkey="K_S">Σ</key>
       <key vkey="K_U">Θ</key>
       <key vkey="K_V">Ω</key>
       <key vkey="K_Y">Υ</key>
-      <key vkey="K_6"></key>
-      <key vkey="K_HYPHEN"></key>
+      <key vkey="K_6"></key>
     </layer>
     <layer shift="">
       <key vkey="K_COMMA">,</key>
       <key vkey="K_HYPHEN">-</key>
       <key vkey="K_PERIOD">.</key>
+      <key vkey="K_1"></key>
+      <key vkey="K_2"></key>
+      <key vkey="K_3"></key>
+      <key vkey="K_4"></key>
+      <key vkey="K_5"></key>
       <key vkey="K_EQUAL">+</key>
       <key vkey="K_A">α</key>
       <key vkey="K_B">β</key>
