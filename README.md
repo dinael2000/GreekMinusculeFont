@@ -4,7 +4,7 @@ A repository for a font and accompanying keyboard of the Greek Minuscule Script,
 
 Instructions:
 - Download the files
-- Install the font (ms_barocci_102/font/msbarocci102fin2.otf -name will be corrected soon)
+- Install the font (ms_barocci_102/font/msbarocci102.otf)
 - Open the Keyman Developer Package (ms_barocci_102/ms_barocci_102.kpj)
 - Test the keyboard on Web
   
