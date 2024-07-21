@@ -7,5 +7,8 @@ Instructions:
 - Install the font (ms_barocci_102/font/msbarocci102.otf)
 - Open the Keyman Developer Package (ms_barocci_102/ms_barocci_102.kpj)
 - Test the keyboard on Web
-  
-If the keyboard/package is normally installed and tested (e.g. on Word), there may be issues with ligatures and special characters.
+
+Alternative:
+- Install keyboard package (ms_barocci_102/build/ms_barocci_102.kmp)
+
+Keyboard now works on Word. Font has to be selected manually and ligatures need to be enabled.
