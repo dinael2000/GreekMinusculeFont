@@ -11,4 +11,4 @@ Instructions:
 Alternative:
 - Install keyboard package (ms_barocci_102/build/ms_barocci_102.kmp)
 
-Keyboard now works on **Word**. The **font** (MS. Barocci 102) has to be selected **manually** and **ligatures** need to be **enabled**.
+Keyboard now works on **Word**. The **font** (MS. Barocci 102) has to be selected **manually** and **ligatures** need to be **enabled** for best results.
