@@ -10,7 +10,7 @@ Instructions:
 **Option 1**. Test using Keyman App (https://keyman.com/downloads/):
 - Install Keyman App
 - Install keyboard package (ms_barocci_102/build/ms_barocci_102.kmp)
-- Use in word-processing software (Keyboard now works on **Word**. The **font** (MS. Barocci 102) has to be selected **manually** and **ligatures** need to be **enabled** for best results)
+- Use in word-processing software (Keyboard now works on **Word**. The **font** (MS. Barocci 102) has to be selected **manually** and **ligatures** need to be **enabled** for best results. If a character is inputted that does not exist in the font, Word reverses to a default font. Thus, the MS. Barocci 102 font needs to be **re-selected** manually.)
 Or:
 - Open the Keyman Developer Package (ms_barocci_102/ms_barocci_102.kpj)
 - Test the keyboard on Web
